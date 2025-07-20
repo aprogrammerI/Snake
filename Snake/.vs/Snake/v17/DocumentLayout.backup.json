@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|c:\\users\\martina\\desktop\\programs\\vp\\project\\snake\\snake\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|solutionrelative:snake\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\snake\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|solutionrelative:snake\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\snake\\gamecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|solutionrelative:snake\\gamecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\snake\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4E9612-CB88-4855-98B7-277AAE2EB469}|Snake\\Snake.csproj|solutionrelative:snake\\gameoverscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\MainForm.cs",
+              "RelativeDocumentMoniker": "Snake\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\MainForm.cs [Design]",
+              "RelativeToolTip": "Snake\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-05T08:35:19.039Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\Movement.cs",
+              "RelativeDocumentMoniker": "Snake\\Movement.cs",
+              "ToolTip": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\Movement.cs",
+              "RelativeToolTip": "Snake\\Movement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-05T08:33:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\GameCanvas.cs",
+              "RelativeDocumentMoniker": "Snake\\GameCanvas.cs",
+              "ToolTip": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\GameCanvas.cs",
+              "RelativeToolTip": "Snake\\GameCanvas.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAgwIwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-08-05T08:04:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOverScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\GameOverScreen.cs",
+              "RelativeDocumentMoniker": "Snake\\GameOverScreen.cs",
+              "ToolTip": "C:\\Users\\Martina\\Desktop\\programs\\VP\\Project\\Snake\\Snake\\GameOverScreen.cs",
+              "RelativeToolTip": "Snake\\GameOverScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-08-05T07:58:26.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
